@@ -1,7 +1,6 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+fun main() {
+    // 어려운 로직에 대한 설명입니다. (한줄주석)
+    /* 모두 주석 처리합니다. */
+    println("Hello Kotlin#1")
+    print("Hello Kotlin#2")
 }

@@ -7,7 +7,8 @@
 
 ### 컴파일 및 실행
 
-<img width="707" alt="스크린샷 2024-03-20 오후 11 36 35" src="https://github.com/miraexhoi/kotlin/assets/109408165/8a5680c6-b12a-4bd0-bc6a-422d61b6da36">  
+![image](https://github.com/miraexhoi/kotlin/assets/109408165/5c278067-2128-476a-99e0-b8bedf627008)
+
   
 [ JVM : Java Virtual Machine의 약자로 직역하면 자바를 실행하기 위한 가상 기계 ]
 

@@ -32,3 +32,5 @@ fun main() {
 - ❎ 반복문 제어
 - ❎ 배열
 - ❎ 함수
+
+[코틀린 관련 개념 정리본](https://github.com/miraexhoi/study/tree/master/Back-End/Kotlin)
